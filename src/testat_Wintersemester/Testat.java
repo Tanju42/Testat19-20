@@ -3,7 +3,7 @@
 // Name:
 // Matrikelnummer:
 
-package testat;
+package testat_Wintersemester;
 
 import java.util.Scanner;
 

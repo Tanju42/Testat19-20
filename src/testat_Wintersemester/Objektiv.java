@@ -3,7 +3,7 @@
 // Name:
 // Matrikelnummer:
 
-package testat;
+package testat_Wintersemester;
 
 // zu Teil2
 // Vervollständigen Sie die Klasse "Objetiv"

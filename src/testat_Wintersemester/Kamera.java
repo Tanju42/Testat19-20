@@ -3,7 +3,7 @@
 // Name:
 // Matrikelnummer:
 
-package testat;
+package testat_Wintersemester;
 
 public class Kamera {
     String kameraTyp;   // Kamerabezeichnung
